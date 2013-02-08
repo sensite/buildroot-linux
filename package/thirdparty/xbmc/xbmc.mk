@@ -4,9 +4,9 @@
 #
 #################################################################################
 
-XBMC_VERSION = ff8ddfd80a3343b49cd232afac2aacbf83d9d5ae
+XBMC_VERSION = a26213979a39b779ad289a24f0f0511708304104
 XBMC_SITE_METHOD = git
-XBMC_SITE = git://github.com/Pivosgroup/xbmc.git
+XBMC_SITE = git://github.com/sensite/xbmc.git
 XBMC_INSTALL_STAGING = YES
 XBMC_INSTALL_TARGET = YES
 
