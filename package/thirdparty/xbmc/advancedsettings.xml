@@ -10,10 +10,12 @@
     <!--setting>videoplayer.usedisplayasclock</setting-->
     <!--setting>videoplayer.synctype</setting-->
     <setting>audiocds</setting>
+    <!--
     <setting>videoscreen.screenmode</setting>
     <setting>videoscreen.screen</setting>
     <setting>videoscreen.vsync</setting>
     <setting>videoscreen.testpattern</setting>
+    -->
     <setting>audiooutput.mode</setting>
     <setting>audiooutput.channellayout</setting>
     <setting>audiooutput.audiodevice</setting>
